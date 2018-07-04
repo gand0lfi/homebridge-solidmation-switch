@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "homebridge-bgh-smart",
+        "scope": null,
+        "escapedName": "homebridge-bgh-smart",
+        "name": "homebridge-bgh-smart",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/gandolfi"
+    ]
+  ],
+  "_from": "homebridge-bgh-smart@latest",
+  "_id": "homebridge-bgh-smart@0.1.0",
+  "_inCache": true,
+  "_location": "/homebridge-bgh-smart",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/homebridge-bgh-smart-0.1.0.tgz_1486929291033_0.4180366767104715"
+  },
+  "_npmUser": {
+    "name": "sbehrends",
+    "email": "sergio@behrends.com.ar"
+  },
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "homebridge-bgh-smart",
+    "scope": null,
+    "escapedName": "homebridge-bgh-smart",
+    "name": "homebridge-bgh-smart",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-bgh-smart/-/homebridge-bgh-smart-0.1.0.tgz",
+  "_shasum": "a50cc92c1fff33fd50880c947819ac70090a10d4",
+  "_shrinkwrap": null,
+  "_spec": "homebridge-bgh-smart",
+  "_where": "/home/gandolfi",
+  "author": {
+    "name": "Sergio Behrends",
+    "email": "sergio@behrends.com.ar"
+  },
+  "contributors": [
+    {
+      "name": "Roberto González",
+      "email": "robert@aerolab.co"
+    }
+  ],
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "description": "BGH Smart Control plugin for homebridge",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a50cc92c1fff33fd50880c947819ac70090a10d4",
+    "tarball": "https://registry.npmjs.org/homebridge-bgh-smart/-/homebridge-bgh-smart-0.1.0.tgz"
+  },
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "sbehrends",
+      "email": "sergio@behrends.com.ar"
+    }
+  ],
+  "name": "homebridge-solidmation-switch",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.1.0"
+}
